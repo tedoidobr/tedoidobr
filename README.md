@@ -6,7 +6,7 @@ Atualmente focado em Java <img align="center" alt="Java" height="30" width="30" 
 
  <div>
    <a href="https://github.com/tedoidobr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedoidobr&layout=compact&langs_count=6&theme=merko"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedoidobr&layout=compact&langs_count=5&theme=merko"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tedoidobr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
     
