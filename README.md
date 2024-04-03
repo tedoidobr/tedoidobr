@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do DANIEL ARMINDO ANGELI 🗿 🎩 🧙‍♂️
 **Analista de redes.** Amante de tecnologia, estudante de programação.
 
-Atualmente focado em Java <img align="center" alt="Java" height="30" width="30" src="https://github.com/tedoidobr/tedoidobr/assets/144138768/0489f8dc-e536-4249-8288-a1ee4573220d"/> 👨‍💻
+Atualmente focado em Javascript <img align="center" alt="Javascript" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> 👨‍💻
 
 
  <div>
